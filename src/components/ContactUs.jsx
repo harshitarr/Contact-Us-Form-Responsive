@@ -65,7 +65,7 @@ const ContactUs = () => {
 
         <div className='bg-white shadow-lg rounded-lg flex w-100 max-w-4xl '>
 
-            <div className='w-1/2 p-8 bg-white flex flex-col justify-center items-center rounded-l-lg border-2-89b6d9'>
+            <div className='w-1/2 p-8 bg-white flex flex-col justify-center items-center rounded-l-lg'>
                
                <img src={ContactImg} alt='contactimg' width={500} className='mb-6'/>
                 
