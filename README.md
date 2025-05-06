@@ -15,7 +15,7 @@ A responsive and modern contact form built with **React** and **Tailwind CSS**. 
 
 ## 🖼️ Preview
 
-![Screenshot](./assets/contact-form-preview.png)
+![Screenshot](https://github.com/harshitarr/Contact-Us-Form-Responsive/blob/main/public/photo1.png?raw=true)
 
 
 
